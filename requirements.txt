@@ -55,10 +55,14 @@ pyzmq==22.0.3
 qtconsole==5.0.2
 QtPy==1.9.0
 regex==2020.11.13
+scikit-learn==0.24.1
+scipy==1.5.4
 Send2Trash==1.5.0
 six==1.15.0
+sklearn==0.0
 terminado==0.9.2
 testpath==0.4.4
+threadpoolctl==2.1.0
 torch==1.7.1
 tornado==6.1
 tqdm==4.57.0
